@@ -13,3 +13,8 @@ Version 2 of bort in Typescript. If you would like to view the current version: 
 [![license](https://img.shields.io/github/license/MatievisTheKat/bort)](https://shields.io)
 [![last commit](https://img.shields.io/github/last-commit/MatievisTheKat/bort/v2)](https://shields.io)
 [![commits since last release](https://img.shields.io/github/commits-since/MatievisTheKat/bort/latest/v2)](https://shields.io)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmatievisthekat%2Fbort.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmatievisthekat%2Fbort?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmatievisthekat%2Fbort.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmatievisthekat%2Fbort?ref=badge_large)
